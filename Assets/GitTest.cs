@@ -5,6 +5,8 @@ using UnityEngine;
 public class GitTest : MonoBehaviour
 {
     public string test01 = "这是一个测试";
+    private string test02 = "这又是一个测试";
+
     void Start()
     {
         
